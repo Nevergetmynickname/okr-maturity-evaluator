@@ -9,7 +9,7 @@ This skill evaluates OKRs across:
 - Strategic alignment
 - Objective quality
 - KR measurability
-- Execution grip
+- Execution grip（whether the OKR has enough process-level handles to make execution manageable）
 - Ownership and accountability
 - Review and governance
 - Balance between goal achievement and sustainable growth
